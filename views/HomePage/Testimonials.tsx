@@ -15,7 +15,7 @@ const TESTIMONIALS = [
       date: '24 March, 2024 (Round - 1), 28 March, 2024 (Final Round)',
       venue: 'Hackerank (Round – 1), LTC 204 and LTC 206 (Final Round)',
     },
-    imageURL: '/Events/coderush.jpg',
+    imageURL: 'public/Events/coderush.jpg',
   },
 
   {
@@ -25,7 +25,7 @@ const TESTIMONIALS = [
       date: '19 February, 2024',
       venue: 'TIFAC Core, SoC Lab',
     },
-    imageURL: '/Events/Linux Intern Launchpad.jpg',
+    imageURL: '/public/Events/Linux Intern Launchpad.jpg',
   },
   {
     name: 'Study Summit Workshop',
@@ -34,7 +34,7 @@ const TESTIMONIALS = [
       date: '22 February, 2024',
       venue: 'LTC 201',
     },
-    imageURL: '/Events/NZ.jpg',
+    imageURL: 'public/Events/NZ.jpg',
   },
   {
     name: 'Quality Control Using MiniTab',
@@ -43,7 +43,7 @@ const TESTIMONIALS = [
       date: '6 March, 2024',
       venue: 'LTC 201',
     },
-    imageURL: '/Events/minitab.jpg',
+    imageURL: 'public/Events/minitab.jpg',
   },
   {
     name: 'Know Your Professor',
@@ -52,16 +52,16 @@ const TESTIMONIALS = [
       date: '6 March, 2024',
       venue: 'LTC 101',
     },
-    imageURL: '/Events/kyp.jpg',
+    imageURL: 'public/Events/kyp.jpg',
   },
   {
     name: 'Craft Your Career Talk',
-    content: `    We had an insightful session with Shri. Venkatesh Bhupathi, an alumnus of SASTRA and Principal Manager at Microsoft Experiences + Devices, who provided exclusive career guidance to SOC final year students, encouraging them to take bold steps in their professional environment.`,
+    content: `We had an insightful session with Shri. Venkatesh Bhupathi, an alumnus of SASTRA and Principal Manager at Microsoft Experiences + Devices, who provided exclusive career guidance to SOC final year students, encouraging them to take bold steps in their professional environment.`,
     author: {
       date: '24 August, 2024',
       venue: 'SoC Auditorium',
     },
-    imageURL: '/Events/CYC.jpg',
+    imageURL: '/public/Events/CYC.jpg',
   },
 
 ];
